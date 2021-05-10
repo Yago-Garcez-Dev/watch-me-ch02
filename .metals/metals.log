@@ -1,0 +1,5 @@
+[0m2021.05.10 19:43:20 INFO  Started: Metals version 0.10.2 in workspace 'C:\Users\yagog\Documents\Cursos\Ignite\reactjs\desafio02\watch-me-ch02' for client vscode 1.56.0.[0m
+[0m2021.05.10 19:43:21 INFO  time: initialize in 0.78s[0m
+[0m2021.05.10 19:43:21 WARN  Build server is not auto-connectable.[0m
+[0m2021.05.10 19:43:21 WARN  no build tool detected in workspace 'C:\Users\yagog\Documents\Cursos\Ignite\reactjs\desafio02\watch-me-ch02'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.05.10 20:05:26 INFO  shutting down Metals[0m
